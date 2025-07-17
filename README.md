@@ -13,3 +13,6 @@ dvc init
 dvc repro
 
 dvc dag
+
+
+107544175286.dkr.ecr.us-east-1.amazonaws.com/mlproject
